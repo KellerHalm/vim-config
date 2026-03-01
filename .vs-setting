@@ -1,0 +1,107 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.fontSize": 20,
+  "editor.smoothScrolling": true,
+  "editor.cursorBlinking": "solid",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.renderWhitespace": "none",
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.lineNumbers": "relative",
+  "editor.matchBrackets": "never",
+  "editor.occurrencesHighlight": "off",
+  "editor.overviewRulerBorder": false,
+  "editor.hideCursorInOverviewRuler": true,
+  "editor.stickyScroll.enabled": false,
+  "editor.fontFamily": "JetBrains Mono NL",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.linkedEditing": true,
+  "editor.codeLensFontFamily": "\"JetBrains Mono\"",
+  "editor.fontLigatures": false,
+  "editor.multiCursorModifier": "alt",
+  "editor.tabSize": 4,
+  "editor.renderLineHighlight": "none",
+  "editor.guides.indentation": false,
+  "editor.lineHeight": 3.0,
+  "terminal.integrated.smoothScrolling": true,
+  "terminal.integrated.fontFamily": "JetBrains Mono NL",
+  "terminal.integrated.fontSize": 18,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorStyleInactive": "line",
+  "terminal.integrated.cursorWidth": 2,
+  "breadcrumbs.enabled": false,
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.runInTerminal": true,
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "workbench.statusBar.visible": false,
+  "workbench.colorTheme": "Catppuccin Mocha",
+  "workbench.startupEditor": "none",
+  "workbench.editor.empty.hint": "hidden",
+  "workbench.list.smoothScrolling": true,
+  "workbench.activityBar.location": "top",
+  "workbench.editor.editorActionsLocation": "titleBar",
+  "workbench.sideBar.location": "right",
+  "workbench.tree.renderIndentGuides": "none",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.decorations.colors": false,
+  "explorer.compactFolders": false,
+  "explorer.decorations.badges": false,
+  "git.ignoreMissingGitWarning": true,
+  "git.openRepositoryInParentFolders": "never",
+  "git.decorations.enabled": false,
+  "scm.diffDecorations": "none",
+  "files.insertFinalNewline": true,
+  "extensions.ignoreRecommendations": true,
+  "window.title": " ",
+  "window.titleBarStyle": "native",
+  "window.zoomLevel": 0,
+  "catppuccin.accentColor": "sapphire",
+  "catppuccin.bracketMode": "neovim",
+  "catppuccin.workbenchMode": "flat",
+  "json.schemas": [],
+  "apc.electron": {
+    "frame": false,
+    "titleBarStyle": "hidden"
+  },
+  "apc.font.family": "JetBrains Mono NL",
+  "apc.monospace.font.family": "JetBrains Mono NL",
+  "update.mode": "none",
+  "security.allowedUNCHosts": [
+    "wsl.localhost",
+    "wsl$"
+  ],
+
+  "glassit.alpha": 255,
+
+  "go.toolsManagement.autoUpdate": true,
+  "remote.autoForwardPortsSource": "hybrid",
+  "apc.imports": [
+    "file:///c:/Users/Sallim/.vscode-oss/extensions/brandonkirbyson.vscode-animations-2.0.1-universal/dist/updateHandler.js"
+  ],
+  "window.customTitleBarVisibility": "never",
+  "editor.minimap.enabled": false,
+  "window.commandCenter": false,
+  "window.menuBarVisibility": "toggle",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "editor.cursorStyle": "block",
+  "powermode.enabled": true,
+  "spacebox-ui.blurEffect": true,
+  "spacebox-ui.commandCenterBlur": true,
+  "workbench.colorCustomizations": {
+        "menu.background": "#262c3670", //menu background
+        "menu.selectionBackground": "#3e465377", //menu hover background
+        "menu.separatorBackground": "#3e434d9f", //menu separator line color
+        "quickInput.background": "#10151d10", //command center
+        "editorHoverWidget.background": "#10151d10" //background color of the editor hover widget
+    },
+    "dart.cliConsole": "terminal",
+    "dart.sdkPath": null,
+    "workbench.editor.showTabs": "none"
+
+}
